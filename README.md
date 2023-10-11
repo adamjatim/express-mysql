@@ -21,8 +21,6 @@ Command :
   2. `npm i express dotenv nodemon mysql2 multer`
 
 <br>
-<br>
-<br>
 
 Basic Routing :
 ---
@@ -77,7 +75,6 @@ app.listen(4000, () => {
 ```
 
 <br>
-<br>
 
 Struktur Folder Project :
 ---
@@ -93,7 +90,7 @@ Struktur Folder Project :
 <br>
 
 # HTTP Status Code : 
----
+
 **Successful Responses (2xx)**
 - 200 OK (GET, PATCH)
 - 201 Created (POST, PUT)
@@ -108,6 +105,6 @@ Struktur Folder Project :
 **Server error responses (5xx)**
 - 500 Internal Server Error
 
--> Source 
+**Source**
 - https://rapidapi.com/guides/http-status-code
 
