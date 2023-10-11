@@ -78,20 +78,19 @@ app.listen(4000, () => {
 
 <br>
 <br>
-<br>
 
 Struktur Folder Project :
 ---
-./
-|-- node_modules
-|-- src/              
-    |-- config/       <-- setup database
-    |-- controller/   <-- sebuah fungsi yang digunakan didalam routes/
-    |-- middleware/   <-- 
-    |-- models/       <-- untuk menyimpan fungsi-fungsi call ke DB
-    |-- routes/       <-- mengumpulkan semua PATH, Users, Products, Sales, dst...
-    |-- ./index.js    <-- main project
-
+./<br>
+|-- node_modules<br>
+|-- src/<br>              
+    |-- config/       <-- setup database<br>
+    |-- controller/   <-- sebuah fungsi yang digunakan didalam routes/<br>
+    |-- middleware/   <-- middleware<br>
+    |-- models/       <-- untuk menyimpan fungsi-fungsi call ke DB<br>
+    |-- routes/       <-- mengumpulkan semua PATH, Users, Products, Sales, dst...<br>
+    |-- ./index.js    <-- main project<br>
+<br>
 
 # HTTP Status Code : 
 ---
